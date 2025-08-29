@@ -1,0 +1,26 @@
+[
+    {
+        "Mã nhân viên": "18710120012",
+        "Họ và tên": "Duong Quoc Anh",
+        "Địa chỉ": "Tuyen Quang",
+        "Số điện thoại": "038282551",
+        "Tên kho": "Kho A",
+        "Chức vụ": "Quản lý"
+    },
+    {
+        "Mã nhân viên": "1871020013",
+        "Họ và tên": "Hà Khánh Huyền",
+        "Địa chỉ": "Tuyên Quàn",
+        "Số điện thoại": "0382825551",
+        "Tên kho": "Kho A",
+        "Chức vụ": "Nhân viên"
+    },
+    {
+        "Mã nhân viên": "1871020013",
+        "Họ và tên": "Duong Quoc Anh",
+        "Địa chỉ": "Tuyên Quang",
+        "Số điện thoại": "0382825551",
+        "Tên kho": "Kho B",
+        "Chức vụ": "Nhân viên"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "Mã hàng hóa": "1871020012",
+        "Tên hàng hóa": "Quần j",
+        "Kho": "Kho A",
+        "Khối lượng": 30.0,
+        "Số lượng": 2,
+        "Hạn sử dụng": 300,
+        "Giá bán": 1200.0
+    },
+    {
+        "Mã hàng hóa": "1871020013",
+        "Tên hàng hóa": "Quần k",
+        "Kho": "Kho A",
+        "Khối lượng": 30.0,
+        "Số lượng": 3,
+        "Hạn sử dụng": 30,
+        "Giá bán": 12.0
+    }
+]
